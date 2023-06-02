@@ -5,7 +5,7 @@
 }
     
 .cabeçalho{
-    background-color: lemonchiffon;
+    background-color:red, green;
     color: black;
     display: flex;
     justify-content: space-around;
@@ -37,6 +37,6 @@
 .titulo_apresentaçao_trabalho{
     font-size: 30px;
 
-    
+
 }
     
