@@ -32,6 +32,10 @@
     align-items: center;
     padding: 24px 0;
     }
+
+    .introdução{
+    background-color: lemonchiffon, red ;
+    }
     
     .titulo_apresentaçao_trabalho{
     font-size: 30px;
