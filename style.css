@@ -11,9 +11,16 @@
 }
 
 .pimenta{
-    background-color: lemonchiffon, red;
+    background-image: linear-gradient(lemonchiffon,red);
+    justify-content: center;
+    align-items: center;
     
 }
+
 .cabeçalho-imagem{
-    width: 25%;
+    width: 25%S;
+}
+
+.pimenta-div-texto{
+    width: 35%;
 }
