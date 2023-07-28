@@ -26,7 +26,11 @@
 }
 
 .Pimenta-texto{
-    width: 15%;
     display: flex;
     margin: 15px 0;
+}
+
+.primeira-semana-foto{
+    width: 15%;
+
 }
