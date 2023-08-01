@@ -38,3 +38,7 @@ background-color: lemonchiffon,red;
     width: 15%;
 
 }
+
+.div-texto{
+    background-image:linear-gradient(lemonchiffon , red)
+}
