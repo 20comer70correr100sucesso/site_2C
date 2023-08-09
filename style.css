@@ -3,13 +3,11 @@
     padding: 0;
 }
 
-.body{
+body{
 background-color: lemonchiffon,red;
 }
 
-.cabeçalhogeral{
-    background-image: linear-gradient(blue);
-}
+
 
 .cabeçalho{
     background-color: lemonchiffon;
