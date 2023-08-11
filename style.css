@@ -1,10 +1,10 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 1%;
 }
 
 body{
-background-color: lemonchiffon,red;
+    background-image: linear-gradient(lemonchiffon,red)
 }
 
 
@@ -16,19 +16,11 @@ background-color: lemonchiffon,red;
     padding: 20px 0;
 }
 
-.pimenta{
-    background-image: linear-gradient(lemonchiffon,red);
-    justify-content: center;
-    align-items: center;
-    
+
 }
 
 .cabeçalho-imagem{
     width: 25%;
-}
-
-.pimenta-div-texto{
-    width: 35%;
 }
 
 .cabeçalhogeral{
