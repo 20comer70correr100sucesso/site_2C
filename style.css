@@ -42,3 +42,7 @@ body{
 .quinta-semana-foto{
     width:10%;
 }
+
+.texto{
+    display: flex;
+}
