@@ -1,8 +1,8 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 1%;
 }
 
-.texto.artigo{
-    background-color:(lemonchiffon);
+body{
+    background-image: linear-gradient(lemonchiffon,red);
 }
