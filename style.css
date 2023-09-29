@@ -8,7 +8,7 @@ body{
 }
 
 .cabeçalho{
-    background-color: lemonchiffon;
+    background-color: greenyellow;
     display: flex;
     justify-content: space-around;
     padding: 20px 0;
