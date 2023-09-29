@@ -41,5 +41,9 @@
 }
 
 .corpodotexto.{
-    background-image: linear-gradient(lemonchiffon,red);
+    background-image: linear-gradient(,rgb(192, 33, 33));
+}
+
+.Pimenta-texto-cor{
+    background-color: lemonchiffon;
 }
