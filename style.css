@@ -3,9 +3,6 @@
     padding: 1%;
 }
 
-body{
-    background-image: linear-gradient(red,lemonchiffon);
-}
 
 .cabeçalho{
     background-color: greenyellow;
@@ -43,3 +40,6 @@ body{
     width:10%;
 }
 
+.corpodotexto.{
+    background-image: linear-gradient(red,lemonchiffon);
+}
